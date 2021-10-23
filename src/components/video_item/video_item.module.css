@@ -7,6 +7,12 @@
   transition: transform 250ms ease-in;
   width: 50%;
 }
+.video.grid{
+  width: 50%;
+}
+.video.list{
+  width: 100%;
+}
 .video:hover{
   transform: scale(1.02);
 }
